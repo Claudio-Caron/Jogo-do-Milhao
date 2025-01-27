@@ -138,9 +138,9 @@ int p1(int *remov, int *numdica, int *pula, char gaba, int x, char esppremios[][
     const char perguntas[11][200] = {
         "1- Qual � a finalidade do exercício \"rosca martelo\"?",
         "2- Qual alimento e responsável por promover a vaso-dilatação nos treinos, elevando a taxa de circulação sanguínea,          irrigando os músculos com mais eficiência durante os treinos?",
-        "3- Qual alimento é reconhecido por retirar as câimbras, pela sua rica fonte de potássio, auxiliando na contração e recuperação muscular?",
+        "3- Qual alimento � reconhecido por retirar as câimbras, pela sua rica fonte de potássio, auxiliando na contração e recuperação muscular?",
         "4- O que significa \"PR\" em musculação?",
-        "5- Qual termo é usado para descrever o processo de redução de gordura corporal para destacar a definição muscular?",
+        "5- Qual termo � usado para descrever o processo de redução de gordura corporal para destacar a definição muscular?",
         "6- Qual é a técnica em que você realiza esforço na fase excêntrica do exercício, na falha muscular?",
         "7- Qual é o papel das gorduras na dieta de um praticante de musculação?",
         "8- Qual é a importância da periodização no treinamento de musculação?",
