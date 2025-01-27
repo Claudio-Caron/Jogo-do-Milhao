@@ -124,7 +124,7 @@ void mensrodada(int esprodada)
     printf("/--------------------------------------------\\\n");
     printf("|Para remover duas alternativas, digite 1    |\n");
     printf("|--------------------------------------------|\n");
-    printf("|Para solicitar uma dica da questão, digite 2|\n");
+    printf("|Para solicitar uma dica da quest�o, digite 2|\n");
     printf("|--------------------------------------------|\n");
     printf("|Para saltar a pergunta, digite 3            |\n");
     printf("\\--------------------------------------------/\n");
@@ -136,7 +136,7 @@ void certo()
 int p1(int *remov, int *numdica, int *pula, char gaba, int x, char esppremios[][40], int z)
 {
     const char perguntas[11][200] = {
-        "1- Qual é a finalidade do exercício \"rosca martelo\"?",
+        "1- Qual � a finalidade do exercício \"rosca martelo\"?",
         "2- Qual alimento e responsável por promover a vaso-dilatação nos treinos, elevando a taxa de circulação sanguínea,          irrigando os músculos com mais eficiência durante os treinos?",
         "3- Qual alimento é reconhecido por retirar as câimbras, pela sua rica fonte de potássio, auxiliando na contração e recuperação muscular?",
         "4- O que significa \"PR\" em musculação?",
